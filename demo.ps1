@@ -12,3 +12,6 @@ else {
 Get-Process
 Write-Host "This is a statement"
 #something 
+
+
+Get-Acl C:\Windows\Temp
