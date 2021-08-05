@@ -1,0 +1,25 @@
+Differences of K8s and Azure Service Fabric
+
+=K8s=
+Contains - Docker, rkt, runc and more
+Can run any software via a container
+orchestrates infrastructure
+Storage Volumes
+3rd party storage replication
+
+=Azure Service Fabric=
+Docker Only
+doesnt require a container
+orchestrates infrastructure and software
+Stateful, data-aware platform
+
+=previous ASF problems=
+Vendor Lock-in (no more) - now open source 
+cloud and on prem support
+.Net is main, java, python
+was windows Only runs on any OS/hardware now.
+previously required Visual Studio
+
+
+
+
